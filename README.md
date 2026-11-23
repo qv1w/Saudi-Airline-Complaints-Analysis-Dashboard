@@ -34,7 +34,7 @@ The dashboard provides an overview of:
 
 ## Dashboard Preview
 
-![Saudi Airline Complaints Dashboard](dashboard.png)<img width="1642" height="917" alt="a" src="https://github.com/user-attachments/assets/1a3dc243-0018-4e0f-a428-39feb66c894e" />
+<img width="1642" height="917" alt="a" src="https://github.com/user-attachments/assets/1a3dc243-0018-4e0f-a428-39feb66c894e" />
 
 
 ---
